@@ -1,0 +1,90 @@
+﻿diagnosis_id,exam_id,statement_order,Original_Diag,user_input,Full_text
+7581906,549871,3,0,0,No previous ECGs available
+7582712,549871,2,0,0,Otherwise normal ECG
+7583036,548759,2,0,0,Low voltage QRS
+7585624,548759,3,1,0,Borderline ECG
+7586371,549871,1,0,0,Sinus bradycardia
+7587370,549871,4,0,0,NULL
+7588835,549871,1,1,0,Sinus bradycardia
+7589731,548759,1,0,0,Normal sinus rhythm
+7596610,549871,3,1,0,No previous ECGs available
+7597057,548759,5,0,0,NULL
+7598485,548759,6,1,0,(unconfirmed)
+7599587,548759,1,1,0,Normal sinus rhythm
+7601558,548759,4,1,0,When compared with ECG of
+7604682,548759,3,0,0,Borderline ECG
+7606540,548759,4,0,0,No previous ECGs available
+7607110,548759,7,1,0,No significant change was found
+7608373,548759,5,1,0,NULL
+7609137,548759,2,1,0,Low voltage QRS
+7610082,549871,2,1,0,Otherwise normal ECG
+7611635,550602,1,0,0,Sinus tachycardia
+7615502,551485,2,1,0,Normal ECG
+7616388,550602,3,0,0,No previous ECGs available
+7616455,551485,3,0,0,No previous ECGs available
+7616658,551485,1,0,0,Normal sinus rhythm
+7617865,550602,2,0,0,Otherwise normal ECG
+7619761,550602,1,1,0,Sinus tachycardia
+7621568,550602,3,1,0,No previous ECGs available
+7625775,551485,1,1,0,Normal sinus rhythm
+7627239,550602,4,0,0,NULL
+7627806,551485,4,0,0,NULL
+7635831,551485,2,0,0,Normal ECG
+7637746,551485,3,1,0,No previous ECGs available
+7638545,550602,2,1,0,Otherwise normal ECG
+7640703,553115,3,0,0,No previous ECGs available
+7640942,552077,1,1,0,Normal sinus rhythm
+7641436,553528,2,0,0,Normal sinus rhythm
+7642268,553115,2,0,0,Abnormal ECG
+7643454,552983,1,1,0,Normal sinus rhythm
+7643827,553115,2,1,0,Abnormal ECG
+7643901,553528,2,1,0,Normal sinus rhythm
+7645009,552077,1,0,0,Normal sinus rhythm
+7645336,552077,4,0,0,NULL
+7645826,552856,4,0,0,Borderline ECG
+7645855,552983,1,0,0,Normal sinus rhythm
+7645946,552856,2,1,0,with sinus arrhythmia
+7646802,552856,5,0,0,No previous ECGs available
+7647653,552983,3,1,0,Abnormal ECG
+7647802,552077,3,1,0,No previous ECGs available
+7647942,552077,2,0,0,Normal ECG
+7648309,552983,5,0,0,NULL
+7648481,553528,3,1,0,with sinus arrhythmia
+7648656,553528,1,0,0,"*** Poor data quality, interpretation may be adversely affected"
+7649489,553115,1,1,0,Atrial fibrillation
+7649856,552983,4,1,0,No previous ECGs available
+7650265,552983,2,1,0,"T wave abnormality, consider inferior ischemia"
+7651811,553528,3,0,0,with sinus arrhythmia
+7651847,552856,2,0,0,with sinus arrhythmia
+7652364,552983,3,0,0,Abnormal ECG
+7652516,552856,3,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7652632,552856,3,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7654099,552077,3,0,0,No previous ECGs available
+7655044,552856,1,0,0,Normal sinus rhythm
+7655345,553528,5,1,0,No previous ECGs available
+7659866,553528,6,0,0,NULL
+7660669,553115,1,0,0,Atrial fibrillation
+7661514,552856,6,0,0,NULL
+7662811,553528,4,1,0,Normal ECG
+7664479,553528,4,0,0,Normal ECG
+7664678,552856,4,1,0,Borderline ECG
+7664888,552856,5,1,0,No previous ECGs available
+7665152,553528,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7666345,552077,2,1,0,Normal ECG
+7666919,552856,1,1,0,Normal sinus rhythm
+7668202,552983,4,0,0,No previous ECGs available
+7669031,552983,2,0,0,"T wave abnormality, consider inferior ischemia"
+7669340,553115,4,0,0,NULL
+7670084,553115,3,1,0,No previous ECGs available
+7670875,553528,5,0,0,No previous ECGs available
+7672427,554080,3,1,0,Prolonged QT
+7675386,554080,4,0,0,Abnormal ECG
+7678031,554080,1,1,0,Sinus rhythm
+7678765,554080,2,0,0,with 1st degree A-V block
+7679250,554080,2,1,0,with 1st degree A-V block
+7679311,554080,6,0,0,NULL
+7685579,554080,4,1,0,Abnormal ECG
+7687090,554080,5,1,0,No previous ECGs available
+7688426,554080,5,0,0,No previous ECGs available
+7691930,554080,1,0,0,Sinus rhythm
+7696447,554080,3,0,0,Prolonged QT
