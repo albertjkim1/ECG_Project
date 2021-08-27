@@ -1,0 +1,1546 @@
+﻿diagnosis_id,exam_id,statement_order,Original_Diag,user_input,Full_text
+7581114,548561,1,0,0,Sinus bradycardia
+7581549,549810,3,1,0,Right bundle branch block
+7581592,549810,3,0,0,Right bundle branch block
+7581906,549871,3,0,0,No previous ECGs available
+7582037,548593,1,1,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7582452,548592,5,0,0,
+7582712,549871,2,0,0,Otherwise normal ECG
+7582845,548561,7,0,0,
+7583036,548759,2,0,0,Low voltage QRS
+7583448,548561,4,0,0,
+7583528,548609,5,0,0,No significant change was found
+7583791,548592,1,0,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7584515,549810,4,1,0,Abnormal ECG
+7584771,548593,1,0,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7585235,548609,3,1,0,When compared with ECG of
+7585624,548759,3,1,0,Borderline ECG
+7586371,549871,1,0,0,Sinus bradycardia
+7586499,548561,5,1,0,No significant change was found
+7586515,548593,5,0,0,
+7586853,548609,1,0,0,Normal sinus rhythm
+7587015,549810,1,0,0,Normal sinus rhythm
+7587081,548592,3,0,0,Normal ECG
+7587205,549810,4,0,0,Abnormal ECG
+7587370,549871,4,0,0,
+7587479,548593,3,1,0,Normal ECG
+7588367,549964,1,0,0,Sinus rhythm
+7588835,549871,1,1,0,Sinus bradycardia
+7589731,548759,1,0,0,Normal sinus rhythm
+7590039,548609,4,1,0,
+7590286,548593,4,0,0,No previous ECGs available
+7590416,549964,2,0,0,with marked sinus arrhythmia
+7591241,548609,5,1,0,No significant change was found
+7591476,548592,4,1,0,No previous ECGs available
+7591536,548561,3,1,0,When compared with ECG of
+7592537,548561,2,1,0,Otherwise normal ECG
+7592757,548593,3,0,0,Normal ECG
+7593056,548592,2,1,0,Normal sinus rhythm
+7593155,549964,4,0,0,
+7593160,549964,3,0,0,Otherwise normal ECG
+7594046,549810,6,1,0,
+7594284,548593,4,1,0,No previous ECGs available
+7594301,548592,4,0,0,No previous ECGs available
+7594622,548561,3,0,0,When compared with ECG of
+7595346,548609,2,1,0,Normal ECG
+7596007,548561,4,1,0,
+7596442,549810,8,0,0,
+7596511,548561,1,1,0,Sinus bradycardia
+7596610,549871,3,1,0,No previous ECGs available
+7597057,548759,5,0,0,
+7598072,548609,1,1,0,Normal sinus rhythm
+7598144,548593,2,0,0,Normal sinus rhythm
+7598485,548759,6,1,0,(unconfirmed)
+7599587,548759,1,1,0,Normal sinus rhythm
+7599816,549964,2,1,0,with marked sinus arrhythmia
+7599864,549810,5,0,0,When compared with ECG of
+7599933,548592,3,1,0,Normal ECG
+7600599,549810,6,0,0,
+7601303,548609,6,0,0,
+7601558,548759,4,1,0,When compared with ECG of
+7601570,549810,7,1,0,No significant change was found
+7602126,548609,3,0,0,When compared with ECG of
+7603710,548561,5,0,0,No significant change was found
+7604272,549810,2,0,0,Left axis deviation
+7604287,548609,4,0,0,
+7604682,548759,3,0,0,Borderline ECG
+7604811,549810,7,0,0,No significant change was found
+7605112,548592,1,1,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7606216,548609,2,0,0,Normal ECG
+7606540,548759,4,0,0,No previous ECGs available
+7607027,548593,2,1,0,Normal sinus rhythm
+7607043,549964,3,1,0,Otherwise normal ECG
+7607110,548759,7,1,0,No significant change was found
+7607296,549810,1,1,0,Normal sinus rhythm
+7607458,548561,2,0,0,Otherwise normal ECG
+7608373,548759,5,1,0,
+7608518,549810,2,1,0,Left axis deviation
+7608720,548561,6,0,0,
+7609137,548759,2,1,0,Low voltage QRS
+7609364,549964,1,1,0,Sinus rhythm
+7610062,548592,2,0,0,Normal sinus rhythm
+7610082,549871,2,1,0,Otherwise normal ECG
+7610245,549810,5,1,0,When compared with ECG of
+7610343,550715,6,1,0,Abnormal ECG
+7610383,551761,1,1,0,Electronic atrial pacemaker
+7610443,550432,5,1,0,No significant change was found
+7610444,550065,6,1,0,Abnormal ECG
+7610451,551471,5,1,0,Nonspecific T wave abnormality
+7610493,550307,8,0,0,T wave inversion now evident in
+7610580,550307,2,1,0,ST &
+7610591,551471,8,1,0,
+7610709,551206,1,0,0,Normal sinus rhythm
+7610906,551831,4,0,0,
+7610965,551407,7,1,0,Left posterior fascicular block
+7611013,550307,1,1,0,Normal sinus rhythm
+7611077,551471,12,1,0,is no longer
+7611149,551437,14,0,0,
+7611161,550432,2,0,0,Normal ECG
+7611263,551471,2,1,0,Undetermined rhythm
+7611346,550715,7,1,0,When compared with ECG of
+7611452,551407,2,0,1,Premature ventricular complexes
+7611575,550391,5,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7611608,550307,8,1,0,T wave inversion now evident in
+7611635,550602,1,0,0,Sinus tachycardia
+7611712,551344,12,0,0,has replaced
+7611740,551996,14,0,0,Lateral leads
+7611748,551865,4,0,0,When compared with ECG of
+7611864,550802,2,1,0,Left axis deviation
+7612151,551865,6,1,0,No significant change was found
+7612262,551206,5,1,0,Borderline ECG
+7612289,550391,6,0,0,Borderline ECG
+7612372,551407,1,0,1,Electronic ventricular pacemaker
+7612646,551407,14,1,0,Electronic ventricular pacemaker
+7612654,551560,4,1,0,
+7612729,550802,5,1,0,
+7612732,551761,11,0,0,has replaced
+7612753,551471,1,0,1,Electronic ventricular pacemaker
+7612928,551864,4,1,0,
+7613007,550432,2,1,0,Normal ECG
+7613020,551831,3,1,0,When compared with ECG of
+7613049,550307,9,0,0,Anterior leads
+7613250,550912,2,1,0,with a competing junctional pacemaker
+7613318,551344,6,1,0,ST &
+7613327,550715,5,1,0, 
+7613340,551991,13,0,0,Lateral leads
+7613380,551344,13,0,0,Atrial fibrillation
+7613490,551864,6,1,0,No significant change was found
+7613521,551761,9,0,0,
+7613556,551996,6,0,0,Vent. rate
+7613649,550715,8,0,0,
+7613659,551761,8,1,0,When compared with ECG of
+7613720,551415,5,0,0,
+7613733,551560,6,0,0,
+7613872,551437,7,0,0,When compared with ECG of
+7613939,551407,7,0,0,
+7613979,551407,2,1,0,Demand pacemaker; interpretation is based on intrinsic rhythm
+7614061,551862,1,0,0,Normal sinus rhythm
+7614080,551471,2,0,1,Premature ventricular complexes
+7614099,550416,6,1,0,(unconfirmed)
+7614190,550065,7,0,0,When compared with ECG of
+7614263,551206,6,0,0,When compared with ECG of
+7614527,550802,1,1,0,Normal sinus rhythm
+7614583,551996,1,1,0,Supraventricular tachycardia
+7614613,551831,1,1,0,Sinus bradycardia
+7614697,551471,8,0,0,
+7614719,551831,4,1,0,
+7614817,551344,5,1,0,", age undetermined"
+7614834,550416,7,1,0,No significant change was found
+7614968,550715,2,0,0,Left axis deviation
+7614972,551996,4,0,0,When compared with ECG of
+7614979,550416,3,0,1,
+7615047,551206,1,1,0,Normal sinus rhythm
+7615053,550391,12,0,0,
+7615148,551471,11,1,0,(RBBB and left posterior fascicular block)
+7615268,551407,12,1,0,Sinus rhythm
+7615340,550065,8,0,0,
+7615369,551344,3,1,0,Pulmonary disease pattern
+7615499,550715,7,0,0,When compared with ECG of
+7615502,551485,2,1,0,Normal ECG
+7615565,551471,6,1,0,Abnormal ECG
+7615580,550912,2,0,0,with premature ventricular or aberrantly conducted complexes
+7615675,551437,13,0,0,QT has lengthened
+7615695,551344,8,0,0,Abnormal ECG
+7615706,551206,5,0,0,Borderline ECG
+7615870,550912,16,1,0,T wave amplitude has increased in
+7615945,551344,6,0,0,ST &
+7615961,551471,10,1,0,"Current undetermined rhythm precludes rhythm comparison, needs review"
+7616032,550432,3,0,0,When compared with ECG of
+7616208,550065,9,1,0,No significant change was found
+7616355,551344,14,1,0,Inverted T waves have replaced nonspecific T wave abnormality in
+7616388,550602,3,0,0,No previous ECGs available
+7616427,550416,7,0,0,(unconfirmed)
+7616455,551485,3,0,0,No previous ECGs available
+7616530,550391,10,0,0,are now
+7616552,551437,7,1,0,
+7616570,550307,6,0,0,When compared with ECG of
+7616635,551560,3,1,0,When compared with ECG of
+7616658,551485,1,0,0,Normal sinus rhythm
+7616672,551206,3,1,0,Left atrial enlargement
+7616740,550912,12,1,0,Minimal criteria for
+7616777,551761,8,0,0,When compared with ECG of
+7616873,550391,11,1,0,Present
+7616987,551471,11,0,0,
+7617176,551243,2,0,0,Normal ECG
+7617336,550416,8,0,0,No significant change was found
+7617356,551560,1,1,0,Normal sinus rhythm
+7617411,551996,11,1,0,ST now depressed in
+7617496,551991,6,1,0,Abnormal ECG
+7617559,551344,1,0,0,Sinus tachycardia
+7617626,551407,5,1,0,Fusion complexes
+7617633,551991,1,1,0,Atrial fibrillation
+7617677,551344,5,0,0,", age undetermined"
+7617680,550715,3,1,0,Pulmonary disease pattern
+7617685,550065,2,1,0,with sinus arrhythmia
+7617770,551407,9,1,0,Abnormal ECG
+7617810,551865,5,1,0,
+7617826,551996,15,0,0,
+7617859,551864,2,1,0,Normal ECG
+7617865,550602,2,0,0,Otherwise normal ECG
+7617944,551862,2,1,0,Normal ECG
+7618041,551243,1,1,0,Normal sinus rhythm
+7618053,551761,13,0,0,
+7618193,551415,2,1,0,Atrial fibrillation
+7618205,550912,8,0,0,
+7618312,551864,5,0,0,(unconfirmed)
+7618381,550912,10,1,0,When compared with ECG of
+7618436,550715,5,0,0, 
+7618571,551344,4,1,0,Inferior infarct
+7619025,551206,8,0,0,No significant change was found
+7619063,551560,1,0,0,Normal sinus rhythm
+7619134,551831,9,1,0,QT has lengthened
+7619199,550307,9,1,0,Anterior leads
+7619211,551991,3,0,0,Pulmonary disease pattern
+7619222,551415,11,1,0,(unconfirmed)
+7619260,551831,7,1,0,Nonspecific T wave abnormality no longer evident in
+7619489,551996,8,1,0,
+7619554,551996,4,1,0,When compared with ECG of
+7619627,550432,4,0,0,
+7619646,551831,10,0,0,
+7619678,551415,1,1,0,Demand pacemaker; interpretation is based on intrinsic rhythm
+7619761,550602,1,1,0,Sinus tachycardia
+7619883,551437,5,0,0,Right bundle branch block
+7619888,551243,9,0,0,
+7619902,551415,3,1,0,with rapid ventricular response
+7620034,551471,7,0,0,When compared with ECG of
+7620070,551996,6,1,0,Vent. rate
+7620104,551471,3,1,0,Possible
+7620128,551344,2,0,0,Left axis deviation
+7620204,551864,1,0,0,Normal sinus rhythm
+7620295,551471,5,0,1,Present
+7620316,551206,2,0,0,Possible
+7620410,550802,4,1,0,When compared with ECG of
+7620428,551865,4,1,0,When compared with ECG of
+7620431,550307,5,1,0,Abnormal ECG
+7620522,550065,4,0,0,Inferior infarct
+7620572,550065,9,0,0,No significant change was found
+7620612,551862,4,1,0,
+7620638,551991,14,0,0,
+7620655,551344,7,1,0,"T wave abnormality, consider lateral ischemia"
+7620675,551991,12,0,0,Nonspecific T wave abnormality has replaced inverted T waves in
+7620687,550715,9,1,0,No significant change was found
+7620706,551415,10,1,0,
+7620831,550912,14,1,0,are now
+7620932,551344,11,0,0,Sinus rhythm
+7621048,550912,7,0,0,When compared with ECG of
+7621234,551407,1,1,0,"*** Suspect arm lead reversal, interpretation assumes no reversal"
+7621282,550912,9,1,0,Abnormal ECG
+7621305,551996,13,0,0,Nonspecific T wave abnormality now evident in
+7621313,551243,6,0,0,Incomplete left bundle branch block
+7621359,551243,7,0,0,is no longer
+7621391,551437,6,1,0,When compared with ECG of
+7621431,550912,5,0,0,", age undetermined"
+7621497,551415,6,0,0,(unconfirmed)
+7621561,551243,5,1,0,(unconfirmed)
+7621568,550602,3,1,0,No previous ECGs available
+7621664,550391,7,1,0,When compared with ECG of
+7621704,550307,10,1,0,QT has lengthened
+7621904,551831,5,0,0,Nonspecific T wave abnormality no longer evident in
+7622023,551996,2,1,0,Nonspecific ST and T wave abnormality
+7622195,551407,4,1,0,with
+7622215,551344,10,1,0,
+7622324,550065,1,0,0,Normal sinus rhythm
+7622375,551761,5,1,0,ST elevation consider inferior injury or acute infarct
+7622437,551865,3,0,0,Abnormal ECG
+7622480,550065,5,0,0,", age undetermined"
+7622511,551243,8,1,0,Present
+7622580,551761,4,0,0,ST elevation consider anterolateral injury or acute infarct
+7622616,550307,5,0,0,Abnormal ECG
+7622659,551415,2,0,1,Premature ventricular complexes
+7622767,551761,3,0,0,Pulmonary disease pattern
+7622998,551344,10,0,0,
+7623131,550416,5,1,0,
+7623201,551344,9,1,0,When compared with ECG of
+7623213,551344,15,0,0,Lateral leads
+7623259,550307,6,1,0,When compared with ECG of
+7623260,551437,3,0,0,Demand pacemaker; interpretation is based on intrinsic rhythm
+7623377,551243,7,1,0,is no longer
+7623387,551996,9,1,0,QRS duration
+7623442,551761,6,0,0,*** ** ** ** * ACUTE MI  ** ** ** **
+7623572,550802,3,0,0,Abnormal ECG
+7623573,551996,8,0,0,
+7623704,551996,7,1,0,has increased
+7623894,551865,1,0,0,Sinus tachycardia
+7623943,551344,1,1,0,Sinus tachycardia
+7624117,550715,4,0,0,Nonspecific ST and T wave abnormality
+7624151,551996,11,0,0,ST now depressed in
+7624187,550432,5,0,0,No significant change was found
+7624218,551831,8,0,0,Anterolateral leads
+7624308,550416,3,1,0,Otherwise normal ECG
+7624439,551344,7,0,0,"T wave abnormality, consider lateral ischemia"
+7624515,551243,3,0,0,When compared with ECG of
+7624729,551864,6,0,0,No significant change was found
+7624906,551996,10,1,0,has increased
+7624908,551991,9,0,0,Atrial fibrillation
+7624952,551344,13,1,0,Atrial fibrillation
+7624953,551761,9,1,0,
+7624967,550912,11,0,0,are now
+7625015,551862,3,1,0,When compared with ECG of
+7625024,551996,5,0,0,
+7625139,551437,8,0,0,
+7625249,551437,12,1,0,QT has lengthened
+7625397,550391,2,0,0,with
+7625399,551831,3,0,0,When compared with ECG of
+7625411,551206,9,0,0,
+7625438,551864,3,1,0,When compared with ECG of
+7625629,551471,9,1,0,(unconfirmed)
+7625641,551437,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7625649,551437,11,1,0,has increased
+7625669,550391,9,0,0,Premature atrial complexes
+7625775,551485,1,1,0,Normal sinus rhythm
+7625944,550715,6,0,0,Abnormal ECG
+7625985,551864,2,0,0,Normal ECG
+7626137,551864,4,0,0,
+7626182,551243,4,0,0,
+7626272,551415,13,1,0,has replaced
+7626318,551437,10,0,0,"Current undetermined rhythm precludes rhythm comparison, needs review"
+7626375,551344,8,1,0,Abnormal ECG
+7626379,550391,7,0,0,When compared with ECG of
+7626395,551437,9,0,0,(unconfirmed)
+7626453,550802,2,0,0,Left axis deviation
+7626538,551560,2,1,0,Normal ECG
+7626604,550912,5,1,0,Right ventricular hypertrophy
+7626631,551415,1,0,1,Electronic ventricular pacemaker
+7626638,551864,7,0,0,
+7626642,550065,4,1,0,Inferior infarct
+7626748,551991,12,1,0,Nonspecific T wave abnormality has replaced inverted T waves in
+7626839,550391,4,1,0,in a pattern of bigeminy
+7626855,551865,5,0,0,
+7626862,551407,3,0,0,Abnormal ECG
+7626956,550802,7,0,0,
+7626969,551415,8,0,0,
+7627111,551344,12,1,0,has replaced
+7627239,550602,4,0,0,
+7627254,551407,13,1,0,has replaced
+7627323,551864,5,1,0,(unconfirmed)
+7627459,551991,10,1,0,has replaced
+7627509,551415,12,1,0,Atrial fibrillation
+7627596,550715,9,0,0,No significant change was found
+7627657,551831,6,1,0,Inferior leads
+7627744,550391,3,1,0,Premature atrial complexes
+7627775,550912,15,0,0,
+7627806,551485,4,0,0,
+7627977,550912,17,1,0,Anterolateral leads
+7628053,551991,8,0,0,
+7628117,550432,1,1,0,Normal sinus rhythm
+7628136,551991,11,1,0,Sinus rhythm
+7628205,551437,1,0,1,Electronic ventricular pacemaker
+7628236,550065,1,1,0,Normal sinus rhythm
+7628380,551996,13,1,0,Nonspecific T wave abnormality now evident in
+7628431,551996,12,0,0,Anterior leads
+7628473,551560,4,0,0,
+7628494,551415,4,0,0,When compared with ECG of
+7628589,551991,6,0,0,Abnormal ECG
+7628655,551437,2,0,1,Fusion complexes
+7628717,550802,5,0,0,
+7628726,550391,8,1,0,
+7628810,551437,6,0,0,Abnormal ECG
+7628835,551991,2,1,0,Left axis deviation
+7628847,551862,1,1,0,Normal sinus rhythm
+7629015,551407,5,0,0,
+7629017,551243,1,0,0,Normal sinus rhythm
+7629219,550307,2,0,0,ST &
+7629361,551471,9,0,0,(unconfirmed)
+7629470,551991,4,1,0,Septal infarct
+7629594,551243,2,1,0,Normal ECG
+7629596,551471,7,1,0,When compared with ECG of
+7629673,550912,12,0,0,Present
+7629865,550065,3,0,0,Cannot rule out
+7629871,551407,6,1,0,Right bundle branch block
+7629897,551862,5,1,0,No significant change was found
+7630031,550912,13,0,0,T wave amplitude has increased in
+7630055,551991,4,0,0,Septal infarct
+7630100,551761,5,0,0,ST elevation consider inferior injury or acute infarct
+7630105,551344,16,0,0,
+7630114,550391,1,0,0,Sinus bradycardia
+7630297,550432,6,0,0,
+7630434,551996,7,0,0,has increased
+7630469,550065,5,1,0,", age undetermined"
+7630497,551991,9,1,0,Atrial fibrillation
+7630683,551991,3,1,0,Pulmonary disease pattern
+7630703,550912,6,1,0,Cannot rule out
+7630755,550391,10,1,0,are now
+7630780,551243,5,0,0,(unconfirmed)
+7630810,551560,5,1,0,No significant change was found
+7630893,551865,7,0,0,
+7630992,550307,4,0,0,Prolonged QT
+7631025,551831,9,0,0,QT has lengthened
+7631076,551415,8,1,0,Abnormal ECG
+7631091,551761,10,0,0,Electronic atrial pacemaker
+7631186,551471,1,1,0,Demand pacemaker; interpretation is based on intrinsic rhythm
+7631195,551996,10,0,0,has increased
+7631247,551471,13,1,0,Present
+7631280,551761,7,0,0,Abnormal ECG
+7631292,551437,12,0,0,has increased
+7631303,550912,11,1,0,
+7631364,551991,5,0,0,", age undetermined"
+7631367,550416,4,1,0,When compared with ECG of
+7631383,550912,1,1,0,Atrial fibrillation
+7631402,551243,6,1,0,Incomplete left bundle branch block
+7631415,551407,3,1,0,Sinus rhythm
+7631417,551344,4,0,0,Inferior infarct
+7631441,551415,3,0,0,Abnormal ECG
+7631481,551831,5,1,0,Nonspecific T wave abnormality no longer evident in
+7631518,551415,7,0,1,No significant change was found
+7631623,550912,6,0,0,Abnormal ECG
+7631678,551344,3,0,0,Pulmonary disease pattern
+7631726,550912,7,1,0,Anterior infarct
+7631757,551437,11,0,0,QRS duration
+7631776,551761,2,0,0,Indeterminate axis
+7631915,551864,3,0,0,When compared with ECG of
+7631922,550391,2,1,0,with
+7631934,551415,9,1,0,When compared with ECG of
+7631995,550912,9,0,0,Minimal criteria for
+7632083,551865,1,1,0,Sinus tachycardia
+7632133,551996,3,1,0,Abnormal ECG
+7632193,551437,4,0,0,Undetermined rhythm
+7632289,550416,1,1,0,Sinus rhythm
+7632352,551437,10,1,0,QRS duration
+7632361,550391,3,0,0,Premature atrial complexes
+7632480,551865,2,0,0,Nonspecific ST and T wave abnormality
+7632482,551344,15,1,0,Lateral leads
+7632484,550307,3,0,0,"T wave abnormality, consider anterior ischemia"
+7632502,550802,6,1,0,No significant change was found
+7632527,551407,4,0,0,When compared with ECG of
+7632566,551437,3,1,0,Undetermined rhythm
+7632661,551407,8,1,0,*** Bifascicular block ***
+7632728,551206,4,1,0,Incomplete left bundle branch block
+7632749,551996,12,1,0,Anterior leads
+7632755,551862,3,0,0,When compared with ECG of
+7632763,551991,13,1,0,Lateral leads
+7632768,550065,8,1,0,
+7632787,550715,8,1,0,
+7632789,550416,2,1,0,with marked sinus arrhythmia
+7632901,550715,1,0,0,Atrial fibrillation
+7632920,550416,9,0,0,
+7632954,550307,7,0,0,
+7633271,551415,14,1,0,Sinus rhythm
+7633285,550416,5,0,0,When compared with ECG of
+7633313,550416,6,0,0,
+7633507,551831,2,0,0,Otherwise normal ECG
+7633535,551471,4,1,0,Right ventricular hypertrophy
+7633551,551206,7,1,0,
+7633669,550912,13,1,0,Anterior infarct
+7633678,551991,7,0,0,When compared with ECG of
+7633686,551415,6,1,0,Left posterior fascicular block
+7633734,551862,4,0,0,
+7633857,551761,12,0,0,Electronic ventricular pacemaker
+7633987,551437,8,1,0,(unconfirmed)
+7633989,550065,7,1,0,When compared with ECG of
+7634033,550912,15,1,0,Present
+7634375,550391,11,0,0,Present
+7634403,550416,1,0,0,Sinus rhythm
+7634421,550391,8,0,0,
+7634425,550715,2,1,0,Left axis deviation
+7634473,551206,6,1,0,When compared with ECG of
+7634493,551831,1,0,0,Sinus bradycardia
+7634516,550065,3,1,0,Cannot rule out
+7634578,551206,2,1,0,Possible
+7634653,550065,6,0,0,Abnormal ECG
+7634687,551415,16,1,0,has increased
+7634704,551206,8,1,0,No significant change was found
+7634916,550307,11,0,0,
+7634922,550391,1,1,0,Sinus bradycardia
+7634972,550416,2,0,0,with marked sinus arrhythmia
+7635079,551415,15,1,0,QRS duration
+7635085,550307,7,1,0,
+7635093,550416,4,0,0,Otherwise normal ECG
+7635258,551206,4,0,0,Incomplete left bundle branch block
+7635267,551862,6,0,0,
+7635324,550802,4,0,0,When compared with ECG of
+7635351,551344,11,1,0,Sinus rhythm
+7635360,551243,3,1,0,When compared with ECG of
+7635364,551996,14,1,0,Lateral leads
+7635401,550715,1,1,0,Atrial fibrillation
+7635413,551761,10,1,0,Electronic atrial pacemaker
+7635454,551864,1,1,0,Normal sinus rhythm
+7635610,551344,9,0,0,When compared with ECG of
+7635672,551761,7,1,0,Abnormal ECG
+7635678,551831,6,0,0,Inferior leads
+7635768,551862,5,0,0,No significant change was found
+7635770,550391,6,1,0,Borderline ECG
+7635831,551485,2,0,0,Normal ECG
+7635852,551761,2,1,0,Indeterminate axis
+7635935,550912,3,1,0,with premature ventricular or aberrantly conducted complexes
+7636025,551862,2,0,0,Normal ECG
+7636163,550307,1,0,0,Normal sinus rhythm
+7636200,550912,8,1,0,", age undetermined"
+7636302,551831,8,1,0,Anterolateral leads
+7636380,550802,1,0,0,Normal sinus rhythm
+7636503,551996,2,0,0,Nonspecific ST and T wave abnormality
+7636505,551437,2,1,0,Demand pacemaker; interpretation is based on intrinsic rhythm
+7636540,551344,2,1,0,Left axis deviation
+7636545,551996,3,0,0,Abnormal ECG
+7636585,550307,10,0,0,QT has lengthened
+7636614,551991,11,0,0,Sinus rhythm
+7636653,551243,4,1,0,
+7636754,550391,5,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7636838,550912,4,1,0,Possible
+7636863,551560,2,0,0,Normal ECG
+7637140,551996,9,0,0,QRS duration
+7637207,551437,4,1,0,Right bundle branch block
+7637281,551415,4,1,0,with premature ventricular or aberrantly conducted complexes
+7637350,551831,2,1,0,Otherwise normal ECG
+7637381,550912,14,0,0,Anterolateral leads
+7637385,551991,5,1,0,", age undetermined"
+7637526,551996,1,0,0,Supraventricular tachycardia
+7637568,550432,3,1,0,When compared with ECG of
+7637590,550715,4,1,0,Nonspecific ST and T wave abnormality
+7637619,550307,4,1,0,Prolonged QT
+7637644,551206,7,0,0,
+7637718,551991,8,1,0,
+7637742,551991,2,0,0,Left axis deviation
+7637746,551485,3,1,0,No previous ECGs available
+7637766,551344,14,0,0,Inverted T waves have replaced nonspecific T wave abnormality in
+7637861,551437,5,1,0,Abnormal ECG
+7637944,551865,3,1,0,Abnormal ECG
+7638033,551437,9,1,0,"Current undetermined rhythm precludes rhythm comparison, needs review"
+7638039,551761,12,1,0,Electronic ventricular pacemaker
+7638040,551560,3,0,0,When compared with ECG of
+7638083,551471,6,0,0,Abnormal ECG
+7638190,551996,5,1,0,
+7638251,551243,8,0,0,Present
+7638296,551761,6,1,0,*** ** ** ** * ACUTE MI  ** ** ** **
+7638304,551865,6,0,0,No significant change was found
+7638390,551407,6,0,1,No significant change was found
+7638392,551761,11,1,0,has replaced
+7638526,551761,1,0,1,Electronic demand pacing
+7638545,550602,2,1,0,Otherwise normal ECG
+7638680,551407,11,1,0,
+7638793,551415,5,1,0,Right bundle branch block
+7638829,551761,3,1,0,Pulmonary disease pattern
+7638842,550802,6,0,0,No significant change was found
+7638873,551991,10,0,0,has replaced
+7638917,551560,5,0,0,No significant change was found
+7639174,550432,1,0,0,Normal sinus rhythm
+7639234,551991,1,0,0,Atrial fibrillation
+7639297,550307,3,1,0,"T wave abnormality, consider anterior ischemia"
+7639303,551471,3,0,1,or
+7639329,551415,7,1,0,*** Bifascicular block ***
+7639348,551831,7,0,0,Nonspecific T wave abnormality no longer evident in
+7639352,550912,10,0,0,Anterior infarct
+7639372,550912,1,0,0,Atrial fibrillation
+7639428,551471,10,0,1,No significant change was found
+7639454,550802,3,1,0,Abnormal ECG
+7639463,550391,4,0,0,in a pattern of bigeminy
+7639526,551865,2,1,0,Nonspecific ST and T wave abnormality
+7639541,550065,2,0,0,with sinus arrhythmia
+7639567,550715,3,0,0,Pulmonary disease pattern
+7639625,550912,4,0,0,Anterior infarct
+7639695,551991,7,1,0,When compared with ECG of
+7639773,550912,3,0,0,Cannot rule out
+7639774,551471,4,0,1,Fusion complexes
+7639783,550432,4,1,0,
+7639841,551206,3,0,0,Left atrial enlargement
+7639965,551761,4,1,0,ST elevation consider anterolateral injury or acute infarct
+7639970,551407,10,1,0,When compared with ECG of
+7640091,550065,10,0,0,
+7640106,550391,9,1,0,Premature atrial complexes
+7640114,550715,10,0,0,
+7640224,552838,6,0,0,
+7640259,553541,4,1,0,When compared with ECG of
+7640471,552943,1,0,0,Sinus rhythm
+7640703,553115,3,0,0,No previous ECGs available
+7640826,553008,3,0,0,with
+7640862,553064,9,1,0,
+7640942,552077,1,1,0,Normal sinus rhythm
+7641100,553215,5,0,0,
+7641188,552284,5,0,0,Abnormal ECG
+7641229,553804,3,1,0,Anterior infarct
+7641426,553542,3,1,0,When compared with ECG of
+7641436,553528,2,0,0,Normal sinus rhythm
+7641815,552943,2,0,0,with
+7641847,553804,2,1,0,Cannot rule out
+7641927,553008,1,1,0,Sinus tachycardia
+7642268,553115,2,0,0,Abnormal ECG
+7642279,552943,10,0,0,
+7642386,553089,4,0,0,(unconfirmed)
+7642449,552892,2,1,0,"ST elevation, consider early repolarization"
+7642480,553542,6,0,0,No significant change was found
+7642751,553064,1,1,0,Sinus tachycardia
+7642761,553008,11,0,0,", age undetermined"
+7643033,553542,1,0,0,Normal sinus rhythm
+7643148,552648,4,1,0,No significant change was found
+7643370,552648,3,0,0,
+7643428,553008,10,0,0,Inferior infarct
+7643454,552983,1,1,0,Normal sinus rhythm
+7643688,553064,3,1,0,with
+7643782,552943,7,1,0,Fusion complexes
+7643827,553115,2,1,0,Abnormal ECG
+7643881,553008,2,1,0,with short PR
+7643901,553528,2,1,0,Normal sinus rhythm
+7644172,552943,3,0,0,Fusion complexes
+7644258,553064,2,0,0,Abnormal ECG
+7644275,553554,3,0,0,Normal ECG
+7644517,553804,4,1,0,", age undetermined"
+7644552,552943,8,0,0,are now
+7644631,552943,9,1,0,Present
+7644714,553804,7,0,0,
+7644721,553554,1,0,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7644869,553008,12,1,0,Abnormal ECG
+7644990,553089,5,1,0,Electronic ventricular pacemaker
+7645009,552077,1,0,0,Normal sinus rhythm
+7645052,553215,2,0,0,When compared with ECG of
+7645076,553554,3,1,0,Normal ECG
+7645181,552284,2,1,0,Right bundle branch block
+7645200,553089,10,1,0,
+7645336,552077,4,0,0,
+7645347,552284,9,0,0,
+7645410,553064,11,1,0,are now
+7645729,553089,8,0,0,Vent. rate
+7645826,552856,4,0,0,Borderline ECG
+7645855,552983,1,0,0,Normal sinus rhythm
+7645946,552856,2,1,0,with sinus arrhythmia
+7646015,552648,2,0,0,When compared with ECG of
+7646120,552892,4,1,0,No previous ECGs available
+7646182,552892,3,1,0,Borderline ECG
+7646418,553804,6,1,0,When compared with ECG of
+7646543,553541,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7646770,552829,1,1,0,Normal sinus rhythm
+7646785,552892,2,0,0,"ST elevation, consider early repolarization"
+7646802,552856,5,0,0,No previous ECGs available
+7647634,553089,10,0,0,
+7647653,552983,3,1,0,Abnormal ECG
+7647802,552077,3,1,0,No previous ECGs available
+7647866,552284,8,1,0,No significant change was found
+7647942,552077,2,0,0,Normal ECG
+7647954,553541,5,0,0,
+7648011,553008,18,0,0,is now
+7648043,553008,7,0,1,
+7648137,553804,8,1,0,No significant change was found
+7648236,552284,6,1,0,When compared with ECG of
+7648239,553542,7,0,0,
+7648303,553008,4,0,0,Premature supraventricular complexes
+7648309,552983,5,0,0,
+7648356,553542,2,1,0,Normal ECG
+7648481,553528,3,1,0,with sinus arrhythmia
+7648529,553858,2,0,0,Normal ECG
+7648647,553215,3,0,0,
+7648656,553528,1,0,0,"*** Poor data quality, interpretation may be adversely affected"
+7648720,552284,4,1,0,*** Bifascicular block ***
+7648947,552838,4,1,0,
+7649064,552284,3,1,0,Left anterior fascicular block
+7649287,553541,4,0,0,When compared with ECG of
+7649376,553804,4,0,0,", age undetermined"
+7649464,553651,1,0,0,Electronic ventricular pacemaker
+7649489,553115,1,1,0,Atrial fibrillation
+7649695,553064,2,1,0,with short PR
+7649770,553215,4,1,0,No significant change was found
+7649794,552838,2,0,0,Normal ECG
+7649856,552983,4,1,0,No previous ECGs available
+7649883,553089,9,0,0,has decreased
+7649894,553651,5,1,0,has increased
+7650136,553804,1,1,0,Normal sinus rhythm
+7650265,552983,2,1,0,"T wave abnormality, consider inferior ischemia"
+7650390,553064,5,1,0,Right bundle branch block
+7650615,553858,3,1,0,No previous ECGs available
+7650780,553008,18,1,0,Present
+7650808,553089,5,0,0,Electronic ventricular pacemaker
+7650848,553008,10,1,0,", age undetermined"
+7650980,553089,2,1,0,When compared with ECG of
+7651003,553215,4,0,0,No significant change was found
+7651246,552838,4,0,0,
+7651367,552838,3,1,0,When compared with ECG of
+7651388,553089,1,1,0,AV sequential or dual chamber electronic pacemaker
+7651610,552829,2,0,0,Normal ECG
+7651674,552648,1,0,0,Electronic ventricular pacemaker
+7651811,553528,3,0,0,with sinus arrhythmia
+7651829,553651,6,0,0,
+7651847,552856,2,0,0,with sinus arrhythmia
+7651881,553554,4,0,0,
+7651922,553064,4,1,0,Premature supraventricular complexes
+7651936,552648,4,0,0,No significant change was found
+7652268,552829,4,1,0,
+7652364,552983,3,0,0,Abnormal ECG
+7652484,552284,7,0,0,
+7652516,552856,3,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7652552,552284,7,1,0,
+7652579,553008,11,1,0,"T wave abnormality, consider lateral ischemia"
+7652632,552856,3,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7652715,552284,1,1,0,Sinus tachycardia
+7652795,553542,4,0,0,
+7653056,553089,6,0,0,has replaced
+7653092,553542,2,0,0,Normal ECG
+7653615,553651,2,0,0,When compared with ECG of
+7653737,553008,5,1,0,and
+7653761,552943,9,0,0,Present
+7653900,553008,1,0,0,Sinus tachycardia
+7653981,553008,15,1,0,"Previous ECG has undetermined rhythm, needs review"
+7654099,552077,3,0,0,No previous ECGs available
+7654150,552829,5,0,0,No significant change was found
+7654275,553089,4,1,0,(unconfirmed)
+7654276,553008,20,0,0,
+7654572,552943,6,0,0,
+7654598,552829,3,0,0,When compared with ECG of
+7654965,553089,8,1,0,Vent. rate
+7654992,553804,5,0,0,Abnormal ECG
+7655044,552856,1,0,0,Normal sinus rhythm
+7655075,553064,10,1,0,Premature supraventricular complexes
+7655125,553064,6,0,0,
+7655275,553858,1,0,0,Normal sinus rhythm
+7655345,553528,5,1,0,No previous ECGs available
+7655469,553089,9,1,0,has decreased
+7655510,552943,6,1,0,
+7655567,552943,5,0,0,When compared with ECG of
+7655758,553008,17,1,0,is now
+7655767,553064,6,1,0,"T wave abnormality, consider lateral ischemia"
+7655890,552284,1,0,0,Sinus tachycardia
+7655977,553554,2,0,0,Normal sinus rhythm
+7656013,552943,1,1,0,Sinus rhythm
+7656186,552648,5,0,0,
+7656235,552943,2,1,0,with
+7656282,553064,8,1,0,When compared with ECG of
+7656729,553008,6,1,0,Fusion complexes
+7656748,553542,5,0,0,(unconfirmed)
+7656820,553542,3,0,0,When compared with ECG of
+7657235,552838,1,0,0,Normal sinus rhythm
+7657348,553064,3,0,0,When compared with ECG of
+7657374,553089,11,0,0,
+7657505,552943,4,1,0,Otherwise normal ECG
+7657545,553008,13,0,0,Abnormal ECG
+7657662,553541,1,0,0,"*** Poor data quality, interpretation may be adversely affected"
+7657672,553858,2,1,0,Normal ECG
+7657824,553541,2,1,0,Normal sinus rhythm
+7657836,553541,3,0,0,Normal ECG
+7657839,553215,1,0,0,AV sequential or dual chamber electronic pacemaker
+7657853,552943,5,1,0,When compared with ECG of
+7658635,553554,1,1,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7658745,552838,3,0,0,When compared with ECG of
+7658822,553804,9,0,0,
+7659021,553554,2,1,0,Normal sinus rhythm
+7659111,553064,1,0,1,Ventricular tachycardia
+7659126,553064,7,1,0,Abnormal ECG
+7659155,552892,1,1,0,Normal sinus rhythm
+7659401,553651,3,0,0,
+7659409,553215,1,1,0,AV sequential or dual chamber electronic pacemaker
+7659453,552838,5,0,0,No significant change was found
+7659516,553542,4,1,0,
+7659798,553089,7,0,1,
+7659866,553528,6,0,0,
+7660099,552829,4,0,0,
+7660328,552892,3,0,0,Borderline ECG
+7660466,553089,3,1,0,
+7660669,553115,1,0,0,Atrial fibrillation
+7660716,552284,3,0,0,Left anterior fascicular block
+7660838,553804,2,0,0,Cannot rule out
+7661039,552829,6,0,0,
+7661066,552838,2,1,0,Normal ECG
+7661111,553804,3,0,0,Anterior infarct
+7661315,553651,4,0,0,Vent. rate
+7661407,553008,5,0,0,and
+7661507,553541,5,1,0,
+7661514,552856,6,0,0,
+7661672,552829,5,1,0,No significant change was found
+7662179,553804,1,0,0,Normal sinus rhythm
+7662276,552892,4,0,0,No previous ECGs available
+7662367,553089,7,1,0,Sinus rhythm
+7662811,553528,4,1,0,Normal ECG
+7663249,553804,7,1,0,
+7663545,553541,6,0,0,No significant change was found
+7663605,553858,4,0,0,
+7663659,553008,16,0,0,"Previous ECG has undetermined rhythm, needs review"
+7663693,553008,6,0,0,Fusion complexes
+7663768,553008,12,0,0,"T wave abnormality, consider lateral ischemia"
+7663808,553008,19,0,0,Present
+7663838,553651,5,0,0,has increased
+7663959,553008,9,1,0,Inferior infarct
+7664105,552838,5,1,0,No significant change was found
+7664106,553541,7,0,0,
+7664223,553008,8,1,0,Cannot rule out
+7664335,553541,2,0,0,Normal sinus rhythm
+7664398,553008,8,0,0,Right bundle branch block
+7664450,553651,6,1,0,
+7664479,553528,4,0,0,Normal ECG
+7664678,552856,4,1,0,Borderline ECG
+7664831,552648,2,1,0,When compared with ECG of
+7664869,553089,1,0,0,AV sequential or dual chamber electronic pacemaker
+7664888,552856,5,1,0,No previous ECGs available
+7664908,553064,4,0,0,
+7665068,553651,3,1,0,
+7665152,553528,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7665269,553008,13,1,0,When compared with ECG of
+7665311,552829,2,1,0,Normal ECG
+7665339,553804,5,1,0,Abnormal ECG
+7665428,553089,2,0,0,When compared with ECG of
+7665885,553008,4,1,0,Premature supraventricular complexes
+7665890,552284,5,1,0,Abnormal ECG
+7665978,552829,1,0,0,Normal sinus rhythm
+7666048,553541,3,1,0,Normal ECG
+7666069,553651,7,0,0,
+7666100,552648,1,1,0,Electronic ventricular pacemaker
+7666345,552077,2,1,0,Normal ECG
+7666506,553804,6,0,0,When compared with ECG of
+7666637,553064,12,1,0,Present
+7666653,552284,2,0,0,Right bundle branch block
+7666895,552829,3,1,0,When compared with ECG of
+7666901,552943,7,0,0,Fusion complexes
+7666919,552856,1,1,0,Normal sinus rhythm
+7667493,553215,2,1,0,When compared with ECG of
+7667559,553804,8,0,0,No significant change was found
+7667617,553541,6,1,0,No significant change was found
+7667757,553008,7,1,0,Right bundle branch block
+7668108,553215,3,1,0,
+7668202,552983,4,0,0,No previous ECGs available
+7668323,553008,16,1,0,Right bundle branch block
+7668355,552892,5,0,0,
+7668451,553651,2,1,0,When compared with ECG of
+7668525,553542,5,1,0,(unconfirmed)
+7668589,553651,1,1,0,Electronic ventricular pacemaker
+7668619,553008,3,1,0,with
+7668646,552892,1,0,0,Normal sinus rhythm
+7668700,553008,2,0,0,with short PR
+7668795,553858,3,0,0,No previous ECGs available
+7668807,553008,14,1,0,
+7669031,552983,2,0,0,"T wave abnormality, consider inferior ischemia"
+7669114,552838,1,1,0,Normal sinus rhythm
+7669165,553008,15,0,0,
+7669256,552943,4,0,0,Otherwise normal ECG
+7669340,553115,4,0,0,
+7669341,553008,17,0,0,Right bundle branch block
+7669389,553089,3,0,0,
+7669408,553008,9,0,0,Cannot rule out
+7669570,553089,6,1,0,has replaced
+7669582,552943,3,1,0,Fusion complexes
+7669732,553542,6,1,0,No significant change was found
+7669820,552284,8,0,0,No significant change was found
+7669921,552943,8,1,0,are now
+7669942,552648,3,1,0,
+7669973,552284,6,0,0,When compared with ECG of
+7670065,553064,5,0,1,No significant change from previous ECG
+7670084,553115,3,1,0,No previous ECGs available
+7670110,553858,1,1,0,Normal sinus rhythm
+7670662,553542,1,1,0,Normal sinus rhythm
+7670760,553008,14,0,0,When compared with ECG of
+7670763,552284,4,0,0,*** Bifascicular block ***
+7670830,553651,4,1,0,Vent. rate
+7670875,553528,5,0,0,No previous ECGs available
+7670960,554799,8,0,0,
+7671175,555846,1,1,0,Normal sinus rhythm
+7671236,554672,2,0,0,Otherwise normal ECG
+7671474,554708,2,0,0,Cannot rule out
+7671570,554582,5,0,0,
+7671613,555923,4,0,0,
+7671623,554321,3,0,0,When compared with ECG of
+7671709,554202,6,0,0,
+7671839,555885,4,0,0,", age undetermined"
+7671947,554582,2,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7671974,555655,8,1,0,Inferior leads
+7672115,554708,8,1,0,No significant change was found
+7672135,555649,6,0,0,
+7672321,555885,7,0,0,
+7672427,554080,3,1,0,Prolonged QT
+7672494,555075,3,1,0,No previous ECGs available
+7672506,554100,3,1,0,Left atrial enlargement
+7672720,554708,9,0,0,
+7672849,554003,1,0,0,Normal sinus rhythm
+7672910,555885,1,1,0,Normal sinus rhythm
+7672967,554003,1,1,0,Normal sinus rhythm
+7673035,554010,11,1,0,Present
+7673036,554010,10,0,0,are now
+7673041,554525,2,1,0,with marked sinus arrhythmia
+7673191,555907,1,0,0,Normal sinus rhythm
+7673322,554429,11,0,0,
+7673661,555907,9,0,0,No significant change was found
+7673793,555540,3,0,0,Inferior infarct
+7673857,554525,5,0,0,
+7673947,554280,4,1,0,When compared with ECG of
+7673981,554708,6,0,0,When compared with ECG of
+7674143,555540,2,1,0,Inferior infarct
+7674176,555635,7,0,0,
+7674343,555923,2,0,0,Normal ECG
+7674596,554202,1,0,0,Normal sinus rhythm
+7674624,555655,5,1,0,When compared with ECG of
+7674643,554672,3,0,0,No previous ECGs available
+7674717,555046,5,1,0,
+7674728,555885,8,1,0,No significant change was found
+7674800,554708,1,0,0,Sinus tachycardia
+7674917,555635,3,1,0,Right axis deviation
+7675034,554474,2,0,0,Sinus bradycardia
+7675173,555075,1,1,0,Normal sinus rhythm
+7675239,554280,6,0,0,No significant change was found
+7675386,554080,4,0,0,Abnormal ECG
+7675387,554104,5,1,0,Prolonged QT
+7675409,555540,1,1,0,Normal sinus rhythm
+7675566,555846,1,0,0,Normal sinus rhythm
+7675587,555655,8,0,0,Inferior leads
+7675723,554429,10,1,0,Aberrant conduction
+7675763,555846,3,0,0,When compared with ECG of
+7675833,555011,5,0,0,No significant change was found
+7675865,555635,6,0,0,"Current undetermined rhythm precludes rhythm comparison, needs review"
+7675892,554104,1,1,0,Normal sinus rhythm
+7676037,554104,10,1,0,Anterior leads
+7676141,554003,7,0,0,When compared with ECG of
+7676187,554100,7,1,0,
+7676436,554429,10,0,0,Present
+7676474,555540,9,0,0,Lateral leads
+7676482,554100,2,1,0,Possible
+7676631,554104,8,0,0,"Nonspecific T wave abnormality, improved in"
+7676755,554474,3,1,0,No previous ECGs available
+7676758,554799,6,1,0,
+7677008,554100,6,0,0,When compared with ECG of
+7677024,555655,4,1,0,Abnormal ECG
+7677074,554202,2,1,0,Normal ECG
+7677106,555046,4,0,0,When compared with ECG of
+7677142,555635,5,1,0,Nonspecific ST and T wave abnormality
+7677212,554633,3,0,0,When compared with ECG of
+7677240,554100,8,1,0,Incomplete right bundle branch block
+7677260,554010,11,0,0,Present
+7677267,554708,8,0,0,No significant change was found
+7677313,554100,10,1,0,Present
+7677355,554799,3,0,1,
+7677376,555540,1,0,0,Normal sinus rhythm
+7677380,554010,7,0,0,When compared with ECG of
+7677507,554321,1,1,0,Normal sinus rhythm
+7677520,554003,3,0,0,Incomplete left bundle branch block
+7677561,555649,4,1,0,(unconfirmed)
+7677649,555075,4,0,0,
+7677752,555907,10,1,0,No significant change was found
+7677850,554321,6,0,0,
+7677899,554104,6,1,0,Abnormal ECG
+7677986,554708,1,1,0,Sinus tachycardia
+7677991,555907,3,0,0,Anterior infarct
+7677992,554799,2,0,0,Normal sinus rhythm
+7678031,554080,1,1,0,Sinus rhythm
+7678238,554010,12,0,0,
+7678394,555635,8,1,0,
+7678479,554280,1,1,0,Normal sinus rhythm
+7678613,555635,2,1,0,Undetermined rhythm
+7678696,554582,4,0,0,No previous ECGs available
+7678713,555907,4,1,0,(cited on or before
+7678765,554080,2,0,0,with 1st degree A-V block
+7678807,554202,5,0,0,No significant change was found
+7678933,554525,1,0,0,Sinus rhythm
+7678955,554415,2,1,0,Otherwise normal ECG
+7679151,554474,1,1,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7679188,554215,1,1,0,Electronic ventricular pacemaker
+7679233,554010,9,1,0,Premature atrial complexes
+7679250,554080,2,1,0,with 1st degree A-V block
+7679311,554080,6,0,0,
+7679444,554010,5,1,0,with repolarization abnormality
+7679555,554100,5,1,0,Borderline ECG
+7679990,554100,4,0,0,Incomplete right bundle branch block
+7680044,554010,3,0,0,Premature atrial complexes
+7680160,554104,2,0,0,Inferior infarct
+7680224,555635,7,1,0,When compared with ECG of
+7680383,555540,8,1,0,Lateral leads
+7680471,554321,2,1,0,Normal ECG
+7680501,555846,6,1,0,Inferior leads
+7680555,555649,5,0,0,"Previous ECG has undetermined rhythm, needs review"
+7680661,554100,7,0,0,
+7680684,554429,9,0,1,are now
+7680751,554215,2,1,0,When compared with ECG of
+7680792,555011,3,0,0,When compared with ECG of
+7680895,554525,6,1,0,No significant change was found
+7681179,555923,1,0,0,Normal sinus rhythm
+7681305,555885,3,1,0,Anterior infarct
+7681313,555907,5,1,0,
+7681336,554429,5,1,0,Aberrant conduction
+7681369,554003,8,1,0,
+7681388,554429,4,1,0,with
+7681506,555635,6,1,0,Abnormal ECG
+7681574,554202,2,0,0,Normal ECG
+7681662,555846,4,1,0,
+7681751,554003,8,0,0,
+7681768,555635,12,1,0,QRS duration
+7681771,554633,4,0,0,
+7681874,554003,10,0,0,Lateral leads
+7681976,554010,2,1,0,with
+7682249,555655,1,0,0,Normal sinus rhythm
+7682347,554003,3,1,0,Incomplete left bundle branch block
+7682430,554708,4,0,0,", age undetermined"
+7682450,555923,4,1,0,
+7682544,554003,11,0,0,
+7682629,554010,8,0,0,
+7682648,555846,7,0,0,
+7682649,555011,1,0,0,Normal sinus rhythm
+7682682,554474,1,0,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7682869,554415,4,0,0,
+7682870,554525,3,1,0,Otherwise normal ECG
+7683036,555011,2,0,0,Normal ECG
+7683047,555885,5,0,0,Abnormal ECG
+7683094,554010,1,1,0,Sinus rhythm
+7683144,555011,3,1,0,When compared with ECG of
+7683272,554100,1,0,0,Normal sinus rhythm
+7683374,555635,11,1,0,Questionable change in
+7683384,554415,1,0,0,Sinus bradycardia
+7683431,554010,7,1,0,When compared with ECG of
+7683465,554202,3,0,0,When compared with ECG of
+7683472,554010,6,0,0,Abnormal ECG
+7683474,555907,3,1,0,Anterior infarct
+7683481,555011,4,1,0,
+7683608,555885,2,1,0,Cannot rule out
+7683636,554280,2,1,0,Left anterior fascicular block
+7683654,554799,7,0,0,When compared with ECG of
+7683719,554010,2,0,0,with
+7683831,554474,2,1,0,Sinus bradycardia
+7683999,554708,2,1,0,Cannot rule out
+7684105,554104,9,1,0,"Nonspecific T wave abnormality, improved in"
+7684172,554215,4,0,0,No significant change was found
+7684186,554003,9,1,0,T wave inversion more evident in
+7684225,555046,5,0,0,
+7684287,554799,6,0,0,
+7684303,554104,8,1,0,
+7684404,555046,3,0,0,Normal ECG
+7684407,554104,9,0,0,Anterior leads
+7684448,554003,4,1,0,Left ventricular hypertrophy
+7684512,554280,5,1,0,
+7684592,555907,6,1,0,Abnormal ECG
+7684650,554104,3,1,0,(cited on or before
+7684656,555075,3,0,0,No previous ECGs available
+7684880,554202,3,1,0,When compared with ECG of
+7684974,554003,6,1,0,Abnormal ECG
+7685014,555635,1,1,0,"*** Suspect arm lead reversal, interpretation assumes no reversal"
+7685027,555846,2,0,0,Normal ECG
+7685032,554429,3,0,1,Premature ventricular complexes
+7685235,555635,4,1,0,Right ventricular hypertrophy
+7685320,554582,1,1,0,Normal sinus rhythm
+7685378,554010,1,0,0,Sinus rhythm
+7685579,554080,4,1,0,Abnormal ECG
+7685618,554321,4,0,0,
+7685688,555649,2,0,0,When compared with ECG of
+7685735,554003,6,0,0,Abnormal ECG
+7685789,555649,3,0,0,
+7685845,554708,7,0,0,
+7685908,555846,3,1,0,When compared with ECG of
+7685916,554708,3,0,0,Anterior infarct
+7685931,554104,4,0,0,
+7685950,554010,4,0,0,Left ventricular hypertrophy
+7685956,554003,4,0,0,Left ventricular hypertrophy
+7685993,554202,4,1,0,
+7686020,554104,3,0,0,(cited on or before
+7686121,554708,5,0,0,Abnormal ECG
+7686129,554582,3,0,0,Borderline ECG
+7686347,554672,2,1,0,Otherwise normal ECG
+7686350,554672,4,0,0,
+7686416,554429,2,1,0,with
+7686480,554280,3,1,0,Abnormal ECG
+7686490,554799,3,1,0,Normal ECG
+7686617,555907,5,0,0,
+7686645,554429,1,1,0,Sinus rhythm
+7686656,554474,4,0,0,
+7686671,555649,1,0,0,Electronic ventricular pacemaker
+7686720,554100,9,1,0,is now
+7686759,554799,9,0,0,
+7686788,555923,3,1,0,When compared with ECG of
+7687090,554080,5,1,0,No previous ECGs available
+7687138,554525,7,0,0,
+7687189,554525,4,0,0,When compared with ECG of
+7687199,555655,2,1,0,Inferior infarct
+7687230,554280,2,0,0,Left anterior fascicular block
+7687286,555907,9,1,0,(unconfirmed)
+7687306,555923,5,0,0,No significant change was found
+7687386,555885,9,0,0,
+7687433,554104,7,1,0,When compared with ECG of
+7687438,554321,5,1,0,No significant change was found
+7687486,554215,3,1,0,
+7687556,554415,3,1,0,No previous ECGs available
+7687567,554799,1,0,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7687578,554104,2,1,0,Inferior infarct
+7687594,555046,2,0,0,Normal sinus rhythm
+7687668,555046,6,1,0,No significant change was found
+7687740,555540,5,0,0,Abnormal ECG
+7687832,554799,5,1,0,When compared with ECG of
+7687888,554100,2,0,0,Possible
+7688011,555635,10,1,0,"Current undetermined rhythm precludes rhythm comparison, needs review"
+7688030,555635,1,0,1,Baseline artifact present
+7688056,555907,6,0,0,When compared with ECG of
+7688128,555046,6,0,0,No significant change was found
+7688137,555923,2,1,0,Normal ECG
+7688179,554100,11,0,0,
+7688323,554429,9,1,0,
+7688335,555923,5,1,0,No significant change was found
+7688426,554080,5,0,0,No previous ECGs available
+7688549,554321,3,1,0,When compared with ECG of
+7688634,554525,3,0,0,Otherwise normal ECG
+7688666,554104,5,0,0,Abnormal ECG
+7688826,554321,1,0,0,Normal sinus rhythm
+7688945,554708,7,1,0,
+7689083,554582,2,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7689121,554321,4,1,0,
+7689189,554429,2,0,0,with
+7689201,555540,8,0,0,T wave amplitude has decreased in
+7689603,555540,7,0,0,
+7689622,555075,2,0,0,Normal ECG
+7689636,554429,11,1,0,is now
+7689642,555885,4,1,0,", age undetermined"
+7689688,555540,7,1,0,T wave amplitude has decreased in
+7689689,554525,1,1,0,Sinus rhythm
+7689706,554429,1,0,0,Sinus rhythm
+7689736,554100,10,0,0,Present
+7689908,554429,6,1,0,Nonspecific ST abnormality
+7689921,554100,3,0,0,Left atrial enlargement
+7689922,554010,8,1,0,
+7690078,554280,1,0,0,Normal sinus rhythm
+7690411,555885,2,0,0,Cannot rule out
+7690481,555046,4,1,0,When compared with ECG of
+7690589,555540,3,1,0,", age undetermined"
+7690631,554633,5,1,0,No significant change was found
+7690779,554010,3,1,0,Premature atrial complexes
+7690801,554708,3,1,0,Anterior infarct
+7690872,555540,6,0,0,When compared with ECG of
+7690934,554799,4,0,1,Sinus arrhythmia
+7691071,554100,5,0,0,Borderline ECG
+7691088,555011,6,0,0,
+7691152,555907,7,1,0,When compared with ECG of
+7691162,554100,9,0,0,is now
+7691283,554799,1,1,0,** ** ** ** * Pediatric ECG Analysis * ** ** ** **
+7691496,554708,6,1,0,When compared with ECG of
+7691501,554525,6,0,0,No significant change was found
+7691563,554100,6,1,0,When compared with ECG of
+7691640,554215,3,0,0,
+7691675,555046,2,1,0,Normal sinus rhythm
+7691693,555923,1,1,0,Normal sinus rhythm
+7691755,554280,6,1,0,No significant change was found
+7691856,554003,5,0,0,with repolarization abnormality
+7691909,554321,5,0,0,No significant change was found
+7691930,554080,1,0,0,Sinus rhythm
+7691949,555655,2,0,0,Inferior infarct
+7691977,555655,4,0,0,Abnormal ECG
+7692027,555655,6,1,0,
+7692133,554202,5,1,0,No significant change was found
+7692185,554429,3,1,0,Premature atrial complexes
+7692217,554104,6,0,0,When compared with ECG of
+7692272,554003,7,1,0,When compared with ECG of
+7692281,555540,4,0,0,", age undetermined"
+7692311,554633,1,0,0,Normal sinus rhythm
+7692375,554633,2,1,0,Normal ECG
+7692626,554474,3,0,0,No previous ECGs available
+7692874,555046,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7692911,555885,3,0,0,Anterior infarct
+7692926,554429,7,1,0,Abnormal ECG
+7692949,554100,8,0,0,Incomplete right bundle branch block
+7692960,555046,3,1,0,Normal ECG
+7693006,554582,1,0,0,Normal sinus rhythm
+7693135,554799,7,1,0,
+7693402,555907,7,0,0,
+7693418,554525,4,1,0,When compared with ECG of
+7693458,554799,4,1,0,
+7693478,554582,3,1,0,Borderline ECG
+7693559,555655,7,1,0,Inverted T waves have replaced nonspecific T wave abnormality in
+7693575,555907,4,0,0,(cited on or before
+7693598,555885,7,1,0,
+7693600,555540,10,0,0,
+7693680,554633,3,1,0,When compared with ECG of
+7693861,554321,2,0,0,Normal ECG
+7693883,554708,5,1,0,Abnormal ECG
+7694038,555923,3,0,0,When compared with ECG of
+7694061,555011,1,1,0,Normal sinus rhythm
+7694075,555907,2,1,0,Possible
+7694159,555885,1,0,0,Normal sinus rhythm
+7694229,554280,8,0,0,
+7694308,555907,10,0,0,
+7694487,555655,3,1,0,", age undetermined"
+7694617,554280,5,0,0,
+7694792,554202,4,0,0,
+7694801,554104,10,0,0,
+7694805,554582,4,1,0,No previous ECGs available
+7694930,554429,5,0,0,Abnormal ECG
+7694984,555540,6,1,0,
+7695067,554672,3,1,0,No previous ECGs available
+7695180,555885,6,1,0,When compared with ECG of
+7695245,555635,5,0,0,
+7695310,554429,4,0,0,Nonspecific ST abnormality
+7695335,554100,4,1,0,Incomplete right bundle branch block
+7695384,554280,4,0,0,When compared with ECG of
+7695405,555907,8,0,0,(unconfirmed)
+7695454,555540,5,1,0,When compared with ECG of
+7695508,554633,4,1,0,
+7695594,555635,4,0,0,When compared with ECG of
+7695607,554215,5,0,0,
+7695666,554525,5,1,0,
+7695683,555540,2,0,1,Possible
+7695901,554672,1,0,0,Sinus bradycardia
+7695939,554003,2,1,0,Left axis deviation
+7695997,555846,5,0,0,Nonspecific T wave abnormality has replaced inverted T waves in
+7696109,554003,9,0,0,T wave inversion more evident in
+7696230,554104,7,0,0,
+7696244,554415,1,1,0,Sinus bradycardia
+7696347,555635,2,0,1,AV sequential or dual chamber electronic pacemaker
+7696417,554633,6,0,0,
+7696436,554429,6,0,0,When compared with ECG of
+7696447,554080,3,0,0,Prolonged QT
+7696454,555655,1,1,0,Normal sinus rhythm
+7696524,555649,2,1,0,When compared with ECG of
+7696590,555011,5,1,0,No significant change was found
+7696866,554633,5,0,0,No significant change was found
+7696914,554415,3,0,0,No previous ECGs available
+7696919,554525,2,0,0,with marked sinus arrhythmia
+7696922,555635,9,1,0,(unconfirmed)
+7696975,555075,1,0,0,Normal sinus rhythm
+7697001,555649,5,1,0,"Previous ECG has undetermined rhythm, needs review"
+7697297,555655,5,0,0,When compared with ECG of
+7697306,554100,1,1,0,Normal sinus rhythm
+7697601,554280,3,0,0,Abnormal ECG
+7697703,554010,4,1,0,Left ventricular hypertrophy
+7697783,554429,8,0,1,Premature ventricular complexes
+7697857,555046,7,0,0,
+7698012,554104,1,0,0,Normal sinus rhythm
+7698051,555075,2,1,0,Normal ECG
+7698176,555635,3,0,0,Abnormal ECG
+7698206,554010,6,1,0,Abnormal ECG
+7698220,555649,1,1,0,Electronic ventricular pacemaker
+7698298,555846,2,1,0,Normal ECG
+7698428,555655,6,0,0,
+7698526,555655,9,0,0,
+7698553,554010,5,0,0,with repolarization abnormality
+7698603,554003,10,1,0,Lateral leads
+7698657,555649,3,1,0,
+7698666,554003,5,1,0,with repolarization abnormality
+7698755,555885,6,0,0,When compared with ECG of
+7698837,554633,1,1,0,Normal sinus rhythm
+7698839,554104,4,1,0,
+7698887,555846,4,0,0,
+7698988,555649,4,0,0,(unconfirmed)
+7699025,554215,4,1,0,No significant change was found
+7699042,554672,1,1,0,Sinus bradycardia
+7699080,554010,9,0,0,Premature atrial complexes
+7699228,554799,10,0,0,
+7699436,555885,5,1,0,Abnormal ECG
+7699465,554708,4,1,0,", age undetermined"
+7699485,555846,5,1,0,Nonspecific T wave abnormality has replaced inverted T waves in
+7699517,554415,2,0,0,Otherwise normal ECG
+7699620,554799,5,0,0,Normal ECG
+7699684,555011,4,0,0,
+7699689,554429,7,0,0,
+7699693,554280,7,0,0,
+7699816,554633,2,0,0,Normal ECG
+7699836,554215,1,0,0,Electronic ventricular pacemaker
+7699894,555655,7,0,0,Inverted T waves have replaced nonspecific T wave abnormality in
+7699921,554202,1,1,0,Normal sinus rhythm
+7700047,554003,2,0,0,Left axis deviation
+7700265,555046,1,0,0,"*** Poor data quality, interpretation may be adversely affected"
+7700482,555846,6,0,0,Inferior leads
+7700554,555923,6,0,0,
+7700592,554010,10,1,0,are now
+7700838,554429,8,1,0,When compared with ECG of
+7701020,555885,8,0,0,No significant change was found
+7701053,554799,2,1,0,Normal sinus rhythm
+7701136,555907,8,1,0,
+7701170,554429,12,1,0,Present
+7701229,555540,4,1,0,Abnormal ECG
+7701254,555011,2,1,0,Normal ECG
+7701490,555907,2,0,0,Possible
+7701519,554215,2,0,0,When compared with ECG of
+7701609,555907,1,1,0,Normal sinus rhythm
+7701632,555655,3,0,0,", age undetermined"
+7701664,556225,5,0,0,Criteria for
+7701763,556203,1,1,0,Sinus bradycardia
+7701788,556067,7,1,0,When compared with ECG of
+7701798,556183,2,0,0,Left axis deviation
+7701855,556329,2,0,0,"ST abnormality, possible digitalis effect"
+7701860,556067,3,1,0,(cited on or before
+7702001,556225,4,1,0,
+7702005,556190,7,1,0,When compared with ECG of
+7702150,556642,4,0,0,Vent. rate
+7702242,556808,2,1,0,with marked sinus arrhythmia
+7702420,556944,4,1,0,
+7702737,556426,2,0,0,Normal ECG
+7702770,556642,6,1,0,
+7702774,556203,4,1,0,
+7702876,556642,3,1,0,
+7703030,556737,3,1,0,RSR' or QR pattern in V1 suggests right ventricular conduction delay
+7703035,556944,7,0,0,
+7703079,556190,3,0,0,(cited on or before
+7703084,556944,4,0,0,
+7703256,556190,4,0,0,
+7703322,556642,1,1,0,Electronic ventricular pacemaker
+7703354,556225,7,1,0,are no longer
+7703400,556944,6,1,0,No significant change was found
+7703475,556225,5,1,0,Criteria for
+7703630,556642,2,1,0,When compared with ECG of
+7703739,556944,3,0,0,When compared with ECG of
+7703842,556328,6,1,0,Abnormal ECG
+7703843,556562,2,0,0,Electronic ventricular pacemaker
+7704242,556934,6,1,0,No significant change was found
+7704357,556190,1,0,0,Normal sinus rhythm
+7704383,556642,5,1,0,has decreased
+7704528,556808,5,0,0,
+7704913,556190,10,1,0,Lateral leads
+7705140,556183,6,1,0,No significant change was found
+7705253,556203,3,0,0,When compared with ECG of
+7705278,556130,2,1,0,Normal ECG
+7705392,556067,6,0,0,When compared with ECG of
+7705499,556190,7,0,0,
+7705526,556225,8,0,0,Present
+7705645,556934,4,1,0,When compared with ECG of
+7705938,556203,2,0,0,Otherwise normal ECG
+7706025,556808,1,0,0,Sinus rhythm
+7706309,556190,8,1,0,
+7706840,556642,4,1,0,Vent. rate
+7707503,556303,2,1,0,Normal ECG
+7707549,556562,7,0,0,
+7707642,556737,2,0,0,with sinus arrhythmia
+7707704,556067,9,0,0,Lateral leads
+7708064,556851,2,0,0,Normal ECG
+7708077,556851,2,1,0,Normal ECG
+7708176,556067,1,0,0,Normal sinus rhythm
+7708267,556225,3,1,0,When compared with ECG of
+7708364,556329,3,1,0,Abnormal ECG
+7708386,556328,9,1,0,No significant change was found
+7708427,556190,2,1,0,Inferior infarct
+7708587,556067,2,1,0,Inferior infarct
+7708681,556203,1,0,0,Sinus bradycardia
+7709022,556225,3,0,0,When compared with ECG of
+7709092,556190,2,0,0,Inferior infarct
+7709504,556737,1,1,0,Normal sinus rhythm
+7709684,556203,6,0,0,
+7709746,556426,2,1,0,Normal ECG
+7709982,556642,2,0,0,When compared with ECG of
+7709995,556934,3,1,0,Borderline ECG
+7710052,556203,4,0,0,
+7710151,556328,3,1,0,(cited on or before
+7710154,556183,1,0,0,Normal sinus rhythm
+7710172,556183,5,1,0,
+7710346,556328,5,0,0,Abnormal ECG
+7710646,556130,1,1,0,Normal sinus rhythm
+7710650,556737,6,0,0,
+7710733,556190,10,0,0,
+7710929,556067,10,1,0,Lateral leads
+7710987,556183,4,1,0,When compared with ECG of
+7711113,556808,4,0,0,No previous ECGs available
+7711407,556225,7,0,0,are no longer
+7711519,556329,5,0,0,
+7711954,556183,7,0,0,
+7712084,556328,8,0,0,No significant change was found
+7712088,556562,4,0,0,When compared with ECG of
+7712090,556328,4,1,0,
+7712313,556934,1,1,0,Normal sinus rhythm
+7712356,556944,5,1,0,(unconfirmed)
+7712610,556562,1,0,1,
+7712676,556190,5,0,0,Abnormal ECG
+7712938,556130,3,1,0,When compared with ECG of
+7713417,556190,8,0,0,T wave inversion no longer evident in
+7714067,556225,9,0,0,
+7714074,556851,3,1,0,No previous ECGs available
+7714079,556190,9,0,0,Lateral leads
+7714181,556067,4,1,0,
+7714201,556934,7,0,0,
+7714630,556303,1,0,0,Normal sinus rhythm
+7714756,556562,4,1,0,Vent. rate
+7714775,556183,2,1,0,Left axis deviation
+7714833,556225,4,0,0,
+7714956,556737,4,0,0,Borderline ECG
+7714992,556183,1,1,0,Normal sinus rhythm
+7715055,556851,1,1,0,Normal sinus rhythm
+7715089,556328,2,1,0,Inferior infarct
+7715170,556130,3,0,0,No previous ECGs available
+7715200,556303,1,1,0,Normal sinus rhythm
+7715241,556737,5,0,0,No previous ECGs available
+7715292,556944,6,0,0,No significant change was found
+7715564,556329,3,0,0,Abnormal ECG
+7715714,556067,2,0,0,Inferior infarct
+7715723,556328,5,1,0,Prolonged QT
+7715972,556808,6,0,0,
+7715994,556328,6,0,0,When compared with ECG of
+7716153,556303,4,0,0,
+7716246,556328,1,0,0,Normal sinus rhythm
+7716472,556067,5,0,0,Abnormal ECG
+7716804,556808,3,0,0,Otherwise normal ECG
+7717126,556642,5,0,0,has decreased
+7717511,556329,4,1,0,No previous ECGs available
+7717514,556203,5,0,0,No significant change was found
+7717644,556851,4,0,0,
+7717701,556067,4,0,0,
+7717734,556067,7,0,0,
+7717781,556190,1,1,0,Normal sinus rhythm
+7717917,556934,3,0,0,Borderline ECG
+7717955,556934,1,0,0,Normal sinus rhythm
+7718173,556329,4,0,0,No previous ECGs available
+7718249,556067,3,0,0,(cited on or before
+7718397,556067,10,0,0,
+7718449,556130,6,1,0,No significant change was found
+7718742,556934,6,0,0,No significant change was found
+7719146,556944,1,0,0,Normal sinus rhythm
+7719344,556225,1,1,0,Normal sinus rhythm
+7719537,556737,2,1,0,with sinus arrhythmia
+7719647,556944,2,1,0,Normal ECG
+7719872,556190,6,1,0,Abnormal ECG
+7720083,556067,6,1,0,Abnormal ECG
+7720098,556190,9,1,0,T wave inversion no longer evident in
+7720173,556562,6,1,0,
+7720231,556067,9,1,0,T wave inversion now evident in
+7720565,556328,3,0,0,(cited on or before
+7720622,556130,4,0,0,
+7720629,556808,1,1,0,Sinus rhythm
+7720874,556203,5,1,0,No significant change was found
+7721207,556808,4,1,0,No previous ECGs available
+7721220,556562,2,1,0,When compared with ECG of
+7721317,556303,2,0,0,Normal ECG
+7721494,556562,5,0,0,
+7721812,556562,5,1,0,has increased
+7722061,556808,2,0,0,with marked sinus arrhythmia
+7722113,556944,2,0,0,Normal ECG
+7722310,556225,1,0,0,Normal sinus rhythm
+7722693,556328,4,0,0,
+7722917,556329,1,0,0,Normal sinus rhythm
+7722956,556642,7,0,0,
+7723247,556225,6,0,0,Septal infarct
+7723250,556067,8,0,0,T wave inversion now evident in
+7723461,556329,1,1,0,Normal sinus rhythm
+7723669,556303,3,1,0,No previous ECGs available
+7723672,556808,3,1,0,Otherwise normal ECG
+7723857,556183,3,0,0,Abnormal ECG
+7723861,556328,9,0,0,
+7724041,556944,5,0,0,(unconfirmed)
+7724044,556851,1,0,0,Normal sinus rhythm
+7724100,556190,3,1,0,(cited on or before
+7724133,556944,3,1,0,When compared with ECG of
+7724502,556225,2,0,0,Normal ECG
+7724513,556183,6,0,0,No significant change was found
+7725104,556934,2,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7725224,556203,3,1,0,When compared with ECG of
+7725243,556130,1,0,0,Normal sinus rhythm
+7725640,556328,7,0,0,
+7725729,556426,4,0,0,
+7725772,556562,3,0,1,
+7725853,556426,3,1,0,No previous ECGs available
+7725869,556183,5,0,0,
+7725977,556190,4,1,0,
+7726192,556329,2,1,0,"ST abnormality, possible digitalis effect"
+7726217,556130,2,0,0,Normal ECG
+7726342,556562,3,1,0,
+7726375,556562,1,1,0,Electronic ventricular pacemaker
+7726669,556737,3,0,0,RSR' or QR pattern in V1 suggests right ventricular conduction delay
+7726744,556225,8,1,0,Present
+7726749,556426,1,0,0,Normal sinus rhythm
+7726797,556203,2,1,0,Otherwise normal ECG
+7727151,556934,5,1,0,
+7727254,556737,1,0,0,Normal sinus rhythm
+7727412,556183,3,1,0,Abnormal ECG
+7727663,556934,2,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7727914,556183,4,0,0,When compared with ECG of
+7728329,556303,3,0,0,No previous ECGs available
+7728414,556328,1,1,0,Normal sinus rhythm
+7728727,556225,2,1,0,Normal ECG
+7728729,556851,3,0,0,No previous ECGs available
+7728809,556737,4,1,0,Borderline ECG
+7729143,556328,7,1,0,When compared with ECG of
+7729270,556426,3,0,0,No previous ECGs available
+7729516,556225,6,1,0,Septal infarct
+7729628,556737,5,1,0,No previous ECGs available
+7730002,556190,5,1,0,Prolonged QT
+7730377,556067,5,1,0,Prolonged QT
+7730460,556642,6,0,0,
+7730689,556328,8,1,0,
+7730785,556642,3,0,0,
+7730807,556426,1,1,0,Normal sinus rhythm
+7730872,556130,4,1,0,
+7730899,556562,6,0,1,No significant change from previous ECG
+7730995,556934,5,0,0,
+7731100,556642,1,0,0,Electronic ventricular pacemaker
+7731475,556328,2,0,0,Inferior infarct
+7731639,556944,1,1,0,Normal sinus rhythm
+7731680,556130,5,1,0,(unconfirmed)
+7731752,556190,6,0,0,When compared with ECG of
+7731872,556067,8,1,0,
+7731901,556934,4,0,0,When compared with ECG of
+7731941,556067,1,1,0,Normal sinus rhythm
+7581906,549871,3,0,0,No previous ECGs available
+7582712,549871,2,0,0,Otherwise normal ECG
+7583036,548759,2,0,0,Low voltage QRS
+7585624,548759,3,1,0,Borderline ECG
+7586371,549871,1,0,0,Sinus bradycardia
+7587370,549871,4,0,0,
+7588835,549871,1,1,0,Sinus bradycardia
+7589731,548759,1,0,0,Normal sinus rhythm
+7596610,549871,3,1,0,No previous ECGs available
+7597057,548759,5,0,0,
+7598485,548759,6,1,0,(unconfirmed)
+7599587,548759,1,1,0,Normal sinus rhythm
+7601558,548759,4,1,0,When compared with ECG of
+7604682,548759,3,0,0,Borderline ECG
+7606540,548759,4,0,0,No previous ECGs available
+7607110,548759,7,1,0,No significant change was found
+7608373,548759,5,1,0,
+7609137,548759,2,1,0,Low voltage QRS
+7610082,549871,2,1,0,Otherwise normal ECG
+7611635,550602,1,0,0,Sinus tachycardia
+7615502,551485,2,1,0,Normal ECG
+7616388,550602,3,0,0,No previous ECGs available
+7616455,551485,3,0,0,No previous ECGs available
+7616658,551485,1,0,0,Normal sinus rhythm
+7617865,550602,2,0,0,Otherwise normal ECG
+7619761,550602,1,1,0,Sinus tachycardia
+7621568,550602,3,1,0,No previous ECGs available
+7625775,551485,1,1,0,Normal sinus rhythm
+7627239,550602,4,0,0,
+7627806,551485,4,0,0,
+7635831,551485,2,0,0,Normal ECG
+7637746,551485,3,1,0,No previous ECGs available
+7638545,550602,2,1,0,Otherwise normal ECG
+7640703,553115,3,0,0,No previous ECGs available
+7640942,552077,1,1,0,Normal sinus rhythm
+7641436,553528,2,0,0,Normal sinus rhythm
+7642268,553115,2,0,0,Abnormal ECG
+7643454,552983,1,1,0,Normal sinus rhythm
+7643827,553115,2,1,0,Abnormal ECG
+7643901,553528,2,1,0,Normal sinus rhythm
+7645009,552077,1,0,0,Normal sinus rhythm
+7645336,552077,4,0,0,
+7645826,552856,4,0,0,Borderline ECG
+7645855,552983,1,0,0,Normal sinus rhythm
+7645946,552856,2,1,0,with sinus arrhythmia
+7646802,552856,5,0,0,No previous ECGs available
+7647653,552983,3,1,0,Abnormal ECG
+7647802,552077,3,1,0,No previous ECGs available
+7647942,552077,2,0,0,Normal ECG
+7648309,552983,5,0,0,
+7648481,553528,3,1,0,with sinus arrhythmia
+7648656,553528,1,0,0,"*** Poor data quality, interpretation may be adversely affected"
+7649489,553115,1,1,0,Atrial fibrillation
+7649856,552983,4,1,0,No previous ECGs available
+7650265,552983,2,1,0,"T wave abnormality, consider inferior ischemia"
+7651811,553528,3,0,0,with sinus arrhythmia
+7651847,552856,2,0,0,with sinus arrhythmia
+7652364,552983,3,0,0,Abnormal ECG
+7652516,552856,3,0,0,"Minimal voltage criteria for LVH, may be normal variant"
+7652632,552856,3,1,0,"Minimal voltage criteria for LVH, may be normal variant"
+7654099,552077,3,0,0,No previous ECGs available
+7655044,552856,1,0,0,Normal sinus rhythm
+7655345,553528,5,1,0,No previous ECGs available
+7659866,553528,6,0,0,
+7660669,553115,1,0,0,Atrial fibrillation
+7661514,552856,6,0,0,
+7662811,553528,4,1,0,Normal ECG
+7664479,553528,4,0,0,Normal ECG
+7664678,552856,4,1,0,Borderline ECG
+7664888,552856,5,1,0,No previous ECGs available
+7665152,553528,1,1,0,"*** Poor data quality, interpretation may be adversely affected"
+7666345,552077,2,1,0,Normal ECG
+7666919,552856,1,1,0,Normal sinus rhythm
+7668202,552983,4,0,0,No previous ECGs available
+7669031,552983,2,0,0,"T wave abnormality, consider inferior ischemia"
+7669340,553115,4,0,0,
+7670084,553115,3,1,0,No previous ECGs available
+7670875,553528,5,0,0,No previous ECGs available
+7672427,554080,3,1,0,Prolonged QT
+7675386,554080,4,0,0,Abnormal ECG
+7678031,554080,1,1,0,Sinus rhythm
+7678765,554080,2,0,0,with 1st degree A-V block
+7679250,554080,2,1,0,with 1st degree A-V block
+7679311,554080,6,0,0,
+7685579,554080,4,1,0,Abnormal ECG
+7687090,554080,5,1,0,No previous ECGs available
+7688426,554080,5,0,0,No previous ECGs available
+7691930,554080,1,0,0,Sinus rhythm
+7696447,554080,3,0,0,Prolonged QT
